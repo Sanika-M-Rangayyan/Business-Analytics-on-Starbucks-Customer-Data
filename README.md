@@ -1,3 +1,5 @@
+# Business Analytics on Starbucks Customer Data
+
 Performed various analysis and visualizations on the customer transaction data of Starbucks.
 Built a recommendation system to map various offers to customers based on their previous
 transactions.
